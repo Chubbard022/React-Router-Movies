@@ -10,15 +10,20 @@ Topics:
 ## Instructions
 
 * **Fork** this repository, then clone your fork.
+DONE
 * **NOTE** You have 2 servers that you will be running here so read these instructions carefully.
+DONE
 * **In the root of this directory**: Run `yarn install` to download dependencies.
+DONE
 * Run the server using `yarn start` or `node server.js`. (Don't worry too much about this process, you'll get used to doing this and it will be explained more in the future).
+DONE
 * In a separate terminal cd into the `client` folder and run `yarn install` to download dependencies.
+DONE
 * Still inside the `client` folder run `yarn start` to run the client application.
-
+DONE
 * Once your application is up and running on the client, you should see a browser window that looks like this at `localhost:3000`
   ![Movies Home](https://ibin.co/3xhmmHVl9BKF.png)
-
+DONE
 ### Part 1:
 
 * Wrap your app with the router.
