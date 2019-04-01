@@ -23,7 +23,7 @@ DONE
 DONE
 * Once your application is up and running on the client, you should see a browser window that looks like this at `localhost:3000`
   ![Movies Home](https://ibin.co/3xhmmHVl9BKF.png)
-DONE
+DON
 ### Part 1:
 
 * Wrap your app with the router.
